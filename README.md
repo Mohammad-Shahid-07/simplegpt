@@ -20,7 +20,7 @@ This application allows users to generate a blog on any given topic in a specifi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/gpt-4-blog-generator.git
+   git clone https://github.com/1811LabsYT/gpt-4-blog-generator.git
    cd gpt-4-blog-generator
    ```
 
